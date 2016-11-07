@@ -1,0 +1,15 @@
+allPeople: [Jon Wong, Vera Faith Wong, Justine Wong, Josiah Guerrero, Chelsie Chung, Francine Fong, Tim Liu, Edmond Tsui, Enoch Mak, Peter Li, Kimberly Chan, Lucy Tan, Rachel Lee, Isabel Chan, Kristen Shak, Brittani Wong, Garrett Tong, Kyle Wong, Stephanie Inn] size: 19
+earlyPeople: [Jon Wong, Stephanie Inn, Chelsie Chung, Tim Liu, Enoch Mak, Peter Li, Lucy Tan, Kristen Shak] size: 8
+regPeople: [Edmond Tsui, Brittani Wong, Justine Wong, Francine Fong, Kimberly Chan, Rachel Lee, Isabel Chan, Garrett Tong, Kyle Wong] size: 9
+allDrivers: [Jon Wong, Stephanie Inn, Edmond Tsui, Brittani Wong] size: 4
+earlyDriveToChurch: [Jon Wong, Stephanie Inn] size: 2
+earlyRideToChurch: [Chelsie Chung, Tim Liu, Enoch Mak, Peter Li, Lucy Tan, Kristen Shak] size: 6
+regDriveToChurch: [Edmond Tsui, Brittani Wong] size: 2
+regRideToChurch: [Justine Wong, Francine Fong, Kimberly Chan, Rachel Lee, Isabel Chan, Garrett Tong, Kyle Wong] size: 7
+afterCampusDrivers: [] size: 0
+afterLunchDrivers: [Jon Wong] size: 1
+afterCampus: [Chelsie Chung, Francine Fong, Kyle Wong] size: 3
+afterLunch: [Josiah Guerrero, Tim Liu, Enoch Mak, Peter Li, Kimberly Chan, Rachel Lee, Garrett Tong] size: 7
+unsortedBefore: [Vera Faith Wong, Josiah Guerrero] size: 2
+unsortedAfter: [Vera Faith Wong, Justine Wong, Sydney Leung, Edmond Tsui, Lucy Tan, Isabel Chan, Kristen Shak, Brittani Wong, Stephanie Inn] size: 9
+
